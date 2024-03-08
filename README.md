@@ -1,1 +1,3 @@
-Basic Codes given on first day of Internship
+Performing git operations  
+-Cloning a git locally  
+-Basic git commands  
